@@ -1,0 +1,20 @@
+        Ethan's Music Essentials        
+========================================
+Sale ID  : #18
+Date     : 2026-05-07 06:24:15
+Customer : Tejo Sanches
+Payment  : Cash
+Currency : USD  (1 USD = P57.00)
+----------------------------------------
+  Fender Debut Telecaster  x1
+  $  181.58        $  181.58
+----------------------------------------
+Subtotal             $    181.58
+Discount (50.0%)    -$    90.79
+Tax (12.0%)          $     10.89
+TOTAL                $    101.68
+Paid                 $    101.68
+Change               $      0.00
+PHP Equiv. Total     P  5,796.00
+========================================
+      Thank you for your purchase!      

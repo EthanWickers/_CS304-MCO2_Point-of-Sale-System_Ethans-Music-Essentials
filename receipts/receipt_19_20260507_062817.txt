@@ -1,0 +1,18 @@
+        Ethan's Music Essentials        
+========================================
+Sale ID  : #19
+Date     : 2026-05-07 06:28:17
+Payment  : Cash
+Currency : USD  (1 USD = P57.00)
+----------------------------------------
+  Epiphone ES-339 Semi-Hol x1
+  $  584.21        $  584.21
+----------------------------------------
+Subtotal             $    584.21
+Tax (12.0%)          $     70.11
+TOTAL                $    654.32
+Paid                 $    700.00
+Change               $     45.68
+PHP Equiv. Total     P 37,296.00
+========================================
+      Thank you for your purchase!      

@@ -1,0 +1,16 @@
+        Ethan's Music Essentials        
+========================================
+Sale ID  : #11
+Date     : 2026-05-06 03:01:47
+Customer : Hendrix
+----------------------------------------
+  Latin Percussion (LP) LP x1
+  P7,425.00        P7,425.00
+----------------------------------------
+Subtotal             P  7,425.00
+Tax (12.0%)          P    891.00
+TOTAL                P  8,316.00
+Paid                 P  8,316.00
+Change               P      0.00
+========================================
+      Thank you for your purchase!      
